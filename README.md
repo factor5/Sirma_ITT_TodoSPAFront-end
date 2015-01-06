@@ -37,4 +37,3 @@ https://github.com/angular-ui/ui-router/wiki
 
 http://www.hackerearth.com/notes/angular-js-best-practice/
 
-
